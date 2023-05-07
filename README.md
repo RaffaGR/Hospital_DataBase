@@ -1,6 +1,6 @@
 <h1 align='center'>Criando um Banco de dados para um Hospital</h1>
 
-<h2>▹ Etapa 1 - Entendendo o problema</h2>
+<h2 align='center'>▹ Etapa 1 - Entendendo o problema ◃</h2>
 <h3 align='center'>Analise do Modelo de entidade-relacional para a criação do modelo conceitual</h3>
 <p>
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
@@ -19,21 +19,21 @@ Pegamos todos os dados visiveis e criamos as conexões dele usando o DER, trazen
 <img align='center' src='DiagramaER-Hospital.png'/>
 <br>
 
-<h2>▹ Etapa 2 - Revisando e simplificando</h2>
+<h2 align='center'>▹ Etapa 2 - Revisando e simplificando ◃</h2>
 <h3 align='center'>Normalizando e criando o Modelo Logico</h3>
 <p>
 Usando o DER para refinarmos todas as conexões, deixando ela mais precisa.
 </p>
-<h5 align='center'>Revisão</h5>
+<h4 align='center'>Revisão</h4>
 <br>
 <img align='center' src='ModelagemLogica_Anterior-Hospital.png'/>
 <br>
-<h5 align='center'>Simplificação</h5>
+<h4 align='center'>Simplificação</h4>
 <br>
 <img align='center' src='ModelagemLogica-Hospital.png'/>
 <br>
 
-<h2>▹ Etapa 3 - Alimentando BD</h2>
+<h2 align='center'>▹ Etapa 3 - Alimentando BD ◃</h2>
 <h3 align='center'>Inserindo dados no modelo fisico</h3>
 <p>
 Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0
@@ -42,7 +42,7 @@ Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0
 <img align='center' src='dadosInsiridos-Hospital.png'/>
 <br>
 
-<h2>▹ Etapa 4 - Melhorando BD</h2>
+<h2 align='center'>▹ Etapa 4 - Melhorando BD ◃</h2>
 <h3 align='center'>Alterando informações no BD</h3>
 <p>
 Modificando e corrigindo se necessario.
@@ -51,7 +51,7 @@ Modificando e corrigindo se necessario.
 <img align='center' src='DadosAlterados-Hospital.png'/>
 <br>
 
-<h2>▹ Etapa 5 - Consultando dados</h2>
+<h2 align='center'>▹ Etapa 5 - Consultando dados ◃</h2>
 <h3 align='center'>Dando vida ao BD</h3>
 <p>
 Buscamos e trazemos informações necessarias e uteis do banco de dados
@@ -59,3 +59,4 @@ Buscamos e trazemos informações necessarias e uteis do banco de dados
 <br>
 <img align='center' src='DadosAlterados-Hospital.png'/>
 <br>
+<p align='center'>✦</p>
