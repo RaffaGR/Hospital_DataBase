@@ -50,7 +50,7 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 </p>
 <h4 align='center'>DiagramaER</h4>
 <br>
-<img align='center' src='DER-segredosHospital.png'/>
+<img align='center' width='100%' src='DER-segredosHospital.png'/>
 <br>
 <h4 align='center'>Modelo Logico</h4>
 <br>
