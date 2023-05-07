@@ -52,11 +52,12 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 <img align='center' width='100%' src='DER-segredosHospital.png'/>
 <h4 align='center'>Modelo Logico</h4>
 <br>
-<img align='center' src='MdL-Melhoria_Hospotal.png'/>
+<img align='center' src='ModeloLogico-Melhoria_Hospital.png'/>
 <h3 align='center'>Criação do Modelo Fisico</h3>
 <p align='center'><i>
 Apenas repassamos todos esses dados para o script sql, criando as tabelas e definições
 </i></p>
+<img align='center' width='100%' src='MySQL.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 3 - Alimentando BD ◃</h2>
