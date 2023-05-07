@@ -29,7 +29,6 @@ Usamos o DER para refinarmos todas as conexões, deixando ela mais precisa.
 <h4 align='center'>Revisão</h4>
 <br>
 <img align='center' src='ModelagemLogica_Anterior-Hospital.png'/>
-<br>
 <h4 align='center'>Simplificação</h4>
 <br>
 <img align='center' src='ModelagemLogica-Hospital.png'/>
@@ -51,10 +50,13 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 <h4 align='center'>DiagramaER</h4>
 <br>
 <img align='center' width='100%' src='DER-segredosHospital.png'/>
-<br>
 <h4 align='center'>Modelo Logico</h4>
 <br>
 <img align='center' src='MdL-Hospotal_Melhorado.png'/>
+<h3 align='center'>Criação do Modelo Fisico</h3>
+<p align='center'><i>
+Apenas repassamos todos esses dados para o script sql, criando as tabelas e definições
+</i></p>
 <br>
 
 <h2 align='center'>▹ Etapa 3 - Alimentando BD ◃</h2>
