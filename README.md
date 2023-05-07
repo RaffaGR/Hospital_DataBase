@@ -35,7 +35,7 @@ Usamos o DER para refinarmos todas as conexões, deixando ela mais precisa.
 <img align='center' src='ModelagemLogica-Hospital.png'/>
 <br>
 
-<h2 align='center'>▹ Etapa 2 - A Expansão ◃</h2>
+<h2 align='center'>▹ Etapa 2 - A Expansão e definição de dados ◃</h2>
 <h3 align='center'>Analise, revise e simplifique para conectar</h3>
 <p>
 No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
@@ -54,7 +54,7 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 <br>
 <h4 align='center'>Modelo Logico</h4>
 <br>
-<img align='center' src=''/>
+<img align='center' src='MdL-Hospotal_Melhorado.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 3 - Alimentando BD ◃</h2>
