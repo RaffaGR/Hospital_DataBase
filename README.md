@@ -14,18 +14,18 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
 </p>
 <h3 align='center'>Construção do Diagrama de entidade-relacional:</h3>
-<p>
+<p align='center'><i>
 Pegamos todos os dados visiveis e criamos as conexões dele usando o DER, trazendo a noção de unidade e relacionamento ao nosso projeto(N:N).
-</p>
+</i></p>
 <br>
 <img align='center' src='DiagramaER-Hospital.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 1 - Revisando e simplificando ◃</h2>
 <h3 align='center'>Normalizando e criando o Modelo Logico</h3>
-<p>
-Usando o DER para refinarmos todas as conexões, deixando ela mais precisa.
-</p>
+<p align='center'><i>
+Usamos o DER para refinarmos todas as conexões, deixando ela mais precisa.
+</i></p>
 <h4 align='center'>Revisão</h4>
 <br>
 <img align='center' src='ModelagemLogica_Anterior-Hospital.png'/>
@@ -35,7 +35,7 @@ Usando o DER para refinarmos todas as conexões, deixando ela mais precisa.
 <img align='center' src='ModelagemLogica-Hospital.png'/>
 <br>
 
-<h2 align='center'>▹ Etapa 2 - Expansão dos segredos do hospital◃</h2>
+<h2 align='center'>▹ Etapa 2 - A Expansão ◃</h2>
 <h3 align='center'>Analise, revise e simplifique para conectar</h3>
 <p>
 No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
@@ -50,7 +50,7 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 </p>
 <h4 align='center'>DiagramaER</h4>
 <br>
-<img align='center' src=''/>
+<img align='center' src='DER-segredosHospital.png'/>
 <br>
 <h4 align='center'>Modelo Logico</h4>
 <br>
