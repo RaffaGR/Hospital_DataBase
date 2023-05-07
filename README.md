@@ -24,8 +24,13 @@ Pegamos todos os dados visiveis e criamos as conexões dele usando o DER, trazen
 <p>
 Usando o DER para refinarmos todas as conexões, deixando ela mais precisa.
 </p>
+<h5 align='center'>Revisão</h5>
 <br>
-<img align='center' src='ModelLogic-Hospital.png'/>
+<img align='center' src='ModelagemLogica_Anterior-Hospital.png'/>
+<br>
+<h5 align='center'>Simplificação</h5>
+<br>
+<img align='center' src='ModelagemLogica-Hospital.png'/>
 <br>
 
 <h2>▹ Etapa 3 - Alimentando BD</h2>
