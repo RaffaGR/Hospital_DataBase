@@ -52,7 +52,7 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 <img align='center' width='100%' src='DER-segredosHospital.png'/>
 <h4 align='center'>Modelo Logico</h4>
 <br>
-<img align='center' src='MdL-Hospotal_Melhorado.png'/>
+<img align='center' src='MdL-Melhoria_Hospotal.png'/>
 <h3 align='center'>Criação do Modelo Fisico</h3>
 <p align='center'><i>
 Apenas repassamos todos esses dados para o script sql, criando as tabelas e definições
