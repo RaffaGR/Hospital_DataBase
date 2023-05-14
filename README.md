@@ -1,3 +1,6 @@
+<h1 align='center'><i>Bem Vindo!</i></h1>
+<h3 align='center'>Aqui irei mostrar etapa por etapa na criação desse banco do dados</h3>
+
 <h1 align='center'>Criando um Banco de dados para um Hospital</h1>
 
 <h2 align='center'>▹ Entendendo o problema ◃</h2>
