@@ -21,7 +21,7 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 Pegamos todos os dados visiveis e criamos as conexões dele usando o DER, trazendo a noção de unidade e relacionamento ao nosso projeto(N:N).
 </i></p>
 <br>
-<img align='center' src='DiagramaER-Hospital.png'/>
+<img align='center' width='100%' src='DiagramaER-Hospital.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 1 - Revisando e simplificando ◃</h2>
@@ -31,10 +31,10 @@ Usamos o DER para refinarmos todas as conexões, deixando ela mais precisa.
 </i></p>
 <h4 align='center'>Revisão</h4>
 <br>
-<img align='center' src='ModelagemLogica_Anterior-Hospital.png'/>
+<img align='center' width='100%' src='ModelagemLogica_Anterior-Hospital.png'/>
 <h4 align='center'>Simplificação</h4>
 <br>
-<img align='center' src='ModelagemLogica-Hospital.png'/>
+<img align='center' width='100%' src='ModelagemLogica-Hospital.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 2 - A Expansão e definição de dados ◃</h2>
@@ -69,7 +69,7 @@ Apenas repassamos todos esses dados para o script sql, criando as tabelas e defi
 Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0 as informações de modelo ou exemplo contidas no dicionario que nos mesmo criamos.
 </p>
 <br>
-<img align='center' src='AddDate.png'/>
+<img align='center' width='100%' src='AddDate.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 4 - Melhorando BD ◃</h2>
@@ -78,7 +78,7 @@ Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0 as informaçõe
 Adicionamos uma tabela e então dados dela, mostrando que se necessarios podemos fazer outros tipos de modificação ou correção.
 </p>
 <br>
-<img align='center' src='AlterDates.png'/>
+<img align='center' src='AlterDates.png' width='100%' />
 <br>
 
 <h2 align='center'>▹ Etapa 5 - Consultando dados ◃</h2>
@@ -87,6 +87,6 @@ Adicionamos uma tabela e então dados dela, mostrando que se necessarios podemos
 Buscamos e trazemos informações necessarias e uteis do banco de dados
 </p>
 <br>
-<img align='center' src='DadosAlterados-Hospital.png'/>
+<img align='center' width='100%' src='DadosAlterados-Hospital.png'/>
 <br>
 <p align='center'>✦</p>
