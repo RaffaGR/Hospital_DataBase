@@ -66,7 +66,7 @@ Apenas repassamos todos esses dados para o script sql, criando as tabelas e defi
 <h2 align='center'>▹ Etapa 3 - Alimentando BD ◃</h2>
 <h3 align='center'>Inserindo dados no modelo fisico</h3>
 <p>
-Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0
+Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0 as informações de modelo ou exemplo contidas no dicionario que nos mesmo criamos.
 </p>
 <br>
 <img align='center' src='AddDate.png'/>
@@ -75,10 +75,10 @@ Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0
 <h2 align='center'>▹ Etapa 4 - Melhorando BD ◃</h2>
 <h3 align='center'>Alterando informações no BD</h3>
 <p>
-Modificando e corrigindo se necessario.
+Adicionamos uma tabela e então dados dela, mostrando que se necessarios podemos fazer outros tipos de modificação ou correção.
 </p>
 <br>
-<img align='center' src='DadosAlterados-Hospital.png'/>
+<img align='center' src='AlterDates.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 5 - Consultando dados ◃</h2>
