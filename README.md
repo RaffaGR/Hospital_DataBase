@@ -66,7 +66,7 @@ Apenas repassamos todos esses dados para o script sql, criando as tabelas e defi
 Pegamos o dicionario de dados e inserimos no MySQL Workbench 8.0
 </p>
 <br>
-<img align='center' src='dadosInsiridos-Hospital.png'/>
+<img align='center' src='AddDate.png'/>
 <br>
 
 <h2 align='center'>▹ Etapa 4 - Melhorando BD ◃</h2>
