@@ -84,9 +84,9 @@ Adicionamos uma tabela e então dados dela, mostrando que se necessarios podemos
 <h2 align='center'>▹ Etapa 5 - Consultando dados ◃</h2>
 <h3 align='center'>Dando vida ao BD</h3>
 <p>
-Buscamos e trazemos informações necessarias e uteis do banco de dados
+Buscamos e trazemos informações necessarias e uteis do banco de dados em forma de tabela de diversas maneiras diferentes com 11 ojetivos necessarios para testes
 </p>
 <br>
-<img align='center' width='100%' src='DadosAlterados-Hospital.png'/>
+<img align='center' width='100%' src='ConsultandoDados.png'/>
 <br>
 <p align='center'>✦</p>
